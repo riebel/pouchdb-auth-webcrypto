@@ -21,7 +21,6 @@
   "dependencies": {
     "base64url": "^3.0.0",
     "couchdb-calculate-session-id": "^1.1.0",
-    "crypto-lite": "^0.2.0",
     "pouchdb-bulkdocs-wrapper": "4.1.0",
     "pouchdb-plugin-error": "4.1.0",
     "pouchdb-promise": "^6.4.1",
