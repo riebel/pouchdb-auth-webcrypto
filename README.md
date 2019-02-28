@@ -1,3 +1,7 @@
+This fork is not cryptographically secure. 
+It uses Math.random() for "secure" number generation, but therfore it works with the Expo SDK.
+Use at your own risk!
+
 pouchdb-auth
 =============
 
